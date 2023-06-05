@@ -1,0 +1,13 @@
+local_cache/
+cnndm
+samsum
+xsum
+output
+checkpoints/
+requirements.txt.old
+__pycache__/
+envs/
+cache/
+result/
+compare-mt/
+.idea

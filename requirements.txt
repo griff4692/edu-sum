@@ -1,0 +1,16 @@
+nlp
+datasets
+spacy
+openai
+backoff
+git+https://github.com/bheinzerling/pyrouge.git@08e9cc35d713f718a05b02bf3bb2e29947d436ce
+pytorch-lightning==1.8.6
+py7zr
+regex
+bert_score
+p-tqdm
+scipy
+nltk
+rouge_score
+wandb
+ujson
