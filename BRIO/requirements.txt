@@ -1,4 +1,4 @@
-transformers==4.6.1
+transformers==4.30.0
 pyrouge==0.1.3
 tensorboard==2.6.0
 sentencepiece==0.1.96
